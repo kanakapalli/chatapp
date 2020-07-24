@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773270838019",
+    "firebase_url": "https://family-e6b5d.firebaseio.com",
+    "project_id": "family-e6b5d",
+    "storage_bucket": "family-e6b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773270838019:android:279e04355c21aeaabea736",
+        "android_client_info": {
+          "package_name": "com.sulphuricacid.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773270838019-tp3fn0o9kb3r8hr6k888plap4tqn5h0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB99snKErVVsZMzUUvpow7yGBLrPm9EzgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773270838019-tp3fn0o9kb3r8hr6k888plap4tqn5h0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

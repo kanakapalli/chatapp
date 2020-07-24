@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">family</string>
+    <string name="mainscreen">mainscreen</string>
+    <string name="sign_in">sign in</string>
+    <string name="gmail">Gmail</string>
+    <string name="todo">TODO</string>
+    <string name="select_photo">SELECT PHOTO</string>
+    <string name="conform_password">conform password</string>
+    <string name="password">password</string>
+</resources>
